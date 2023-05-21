@@ -1,0 +1,15 @@
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/obj/Debug/net7.0/Console_Lab_3.csproj.AssemblyReference.cache
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/obj/Debug/net7.0/Console_Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/obj/Debug/net7.0/Console_Lab_3.AssemblyInfoInputs.cache
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/obj/Debug/net7.0/Console_Lab_3.AssemblyInfo.cs
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/obj/Debug/net7.0/Console_Lab_3.csproj.CoreCompileInputs.cache
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/bin/Debug/net7.0/Console_Lab_3
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/bin/Debug/net7.0/Console_Lab_3.deps.json
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/bin/Debug/net7.0/Console_Lab_3.runtimeconfig.json
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/bin/Debug/net7.0/Console_Lab_3.dll
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/bin/Debug/net7.0/Console_Lab_3.pdb
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/obj/Debug/net7.0/Console_Lab_3.dll
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/obj/Debug/net7.0/refint/Console_Lab_3.dll
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/obj/Debug/net7.0/Console_Lab_3.pdb
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/obj/Debug/net7.0/Console_Lab_3.genruntimeconfig.cache
+/Users/volodymyr.shapoval/Documents/Програмування/C#/КНУ/Console_Lab_3/obj/Debug/net7.0/ref/Console_Lab_3.dll
